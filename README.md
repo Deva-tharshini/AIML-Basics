@@ -58,6 +58,8 @@ AIML-Basics/
 
 └── Session_14_Search_Algorithms/
 
+<img width="1053" height="686" alt="image" src="https://github.com/user-attachments/assets/955a27e0-2c59-496b-bc27-c2a26c5456f7" />
+
 ---
 
 ## Sessions Included
@@ -209,6 +211,12 @@ Outputs generated throughout the sessions include:
 * Confusion Matrices
 * Cluster Visualizations
 * Console Outputs
+
+<img width="684" height="834" alt="Console_output" src="https://github.com/user-attachments/assets/16a6b848-5e4a-423a-8d9d-2a45e22ffe68" />
+
+<img width="800" height="600" alt="Heatmap" src="https://github.com/user-attachments/assets/ec58dbea-063c-45f2-8e04-6bb32a1bc41c" />
+
+<img width="640" height="480" alt="Histogram" src="https://github.com/user-attachments/assets/c367610a-59c7-4e47-814e-f530a8453664" />
 
 ---
 
