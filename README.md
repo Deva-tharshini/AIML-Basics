@@ -212,7 +212,7 @@ Outputs generated throughout the sessions include:
 * Cluster Visualizations
 * Console Outputs
 
-<img width="684" height="834" alt="Console_output" src="https://github.com/user-attachments/assets/16a6b848-5e4a-423a-8d9d-2a45e22ffe68" />
+<img width="1000" height="600" alt="Boxplot" src="https://github.com/user-attachments/assets/ee52eeca-1c19-4724-9569-acca43709a1f" />
 
 <img width="800" height="600" alt="Heatmap" src="https://github.com/user-attachments/assets/ec58dbea-063c-45f2-8e04-6bb32a1bc41c" />
 
