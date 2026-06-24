@@ -1,5 +1,12 @@
 # AIML Basics – Artificial Intelligence and Machine Learning 
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Neural%20Networks-orange)
+![PGMPY](https://img.shields.io/badge/PGMPY-Bayesian-green)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
+
 ## Project Overview
 
 This repository contains practical implementations of core Artificial Intelligence and Machine Learning concepts completed through structured laboratory sessions.
